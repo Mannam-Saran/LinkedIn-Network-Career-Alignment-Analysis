@@ -85,6 +85,7 @@ connection_trends;
 - Trend of Connections Over Time
 
 Dashboard link: https://app.snowflake.com/bpkdjnv/rw70674/#/linkedin-career-alignment-dP1dLWHTO
+<img width="1440" alt="dashboard_preview" src="https://github.com/user-attachments/assets/e01cc1d0-9fe4-4e8a-a8b1-845d89361b29" />
 
 ---
 
