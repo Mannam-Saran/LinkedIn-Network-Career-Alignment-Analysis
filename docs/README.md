@@ -91,16 +91,16 @@ Dashboard link: https://app.snowflake.com/bpkdjnv/rw70674/#/linkedin-career-alig
 
 ## Key Insights
 
-- **X%** of network is aligned to Data Science roles
-- Top aligned companies: TCS, Amazon, etc.
-- Majority of connections are concentrated in [Location/Industry]
-- Emerging growth in roles like Cybersecurity and QA
+- **4%** of network is aligned to Data Science roles
+- Top aligned companies: Amazon, TCS, Cognizant etc.
+- Majority of connections are concentrated in USA
+- Emerging growth in roles like Data Analyst and Software Engineering
 
 
 ## Future Work
 
 - Enhance role classification using spaCy or BERT
-- Include geographic analysis (if location data is added)
+- Include geographic analysis
 - Automate LinkedIn data ingestion using Selenium or LinkedIn API
 - Integrate with a real-time dashboarding platform like Streamlit or Observable
 
